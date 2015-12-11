@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="10" tileheight="10" nextobjectid="25">
+ <objectgroup name="ball">
+  <object id="14" x="64.085" y="64.598" width="10" height="10">
+   <properties>
+    <property name="PileCount" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="bubble">
+  <object id="22" x="250.285" y="241.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="1"/>
+   </properties>
+  </object>
+  <object id="23" x="146.285" y="132.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="1"/>
+   </properties>
+  </object>
+  <object id="24" x="331.285" y="329.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

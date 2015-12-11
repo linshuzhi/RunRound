@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string>
+<MAIN_PLAY >play</MAIN_PLAY>
+<MAIN_ABOUT>about</MAIN_ABOUT>
+<MAIN_SETTING >setting</MAIN_SETTING>
+<MAIN_RANK >rank</MAIN_RANK>
+<RANK_LIST>Ranking List</RANK_LIST>
+<GAME_OVER>GAME OVER</GAME_OVER>
+<GAME_RUN>run</GAME_RUN>
+<GAME_NEXT>next</GAME_NEXT>
+<GAME_REPLAY>replay</GAME_REPLAY>
+<GAME_BACK>back</GAME_BACK>
+<GAME_WIN>you win</GAME_WIN>
+<GAME_LOSE>you lose</GAME_LOSE>
+</string>

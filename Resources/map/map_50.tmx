@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="10" tileheight="10" nextobjectid="30">
+ <objectgroup name="ball">
+  <object id="14" x="30.085" y="368.598" width="10" height="10">
+   <properties>
+    <property name="PileCount" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="bubble">
+  <object id="23" x="174.285" y="374.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="0.4"/>
+   </properties>
+  </object>
+  <object id="24" x="296.285" y="322.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="0.4"/>
+   </properties>
+  </object>
+  <object id="25" x="239.285" y="100.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="0.4"/>
+   </properties>
+  </object>
+  <object id="26" x="287.285" y="89.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="0.4"/>
+   </properties>
+  </object>
+  <object id="28" x="333.285" y="248.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="0.4"/>
+   </properties>
+  </object>
+  <object id="29" x="336.285" y="161.606" width="10" height="10">
+   <properties>
+    <property name="MoveLength" value="0"/>
+    <property name="MoveTime" value="0"/>
+    <property name="Scale" value="0.4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
